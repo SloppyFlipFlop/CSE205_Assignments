@@ -1,0 +1,53 @@
+Choice		Action
+------		------
+A		Add Student
+D		Display Student info
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Unknown action
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Student
+D		Display Student info
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Student information:
+Student Id:	0
+Major:		?
+
+Course information:
+Course ID:	0
+Instructor:	?
+Subject:	?
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	18953
+Major:		Biomedical Informatics
+
+Course information:
+Course ID:	312
+Instructor:	Gevork Aliste
+Subject:	Modeling Biomedical Data
+
+What action would you like to perform?

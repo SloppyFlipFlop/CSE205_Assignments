@@ -1,0 +1,85 @@
+Welcome to YoMovies! 
+Find or post reviews for your favorite (and not so favorite) movies.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a movie
+E		Search for a genre
+L		List all reviews
+N		Sort by stars
+P		Sort by genre
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+
+Avatar: The Way of Water Movie
+***
+Total Collection earned: $$$$
+Action Movie
+Production Company:	Lightstorm Entertainment
+Director: James Cameron
+Review:	Visually stunning and action-packed but the story is light!
+
+Pathaan Movie
+*****
+Total Collection earned: $$$$
+Thriller Movie
+Production Company:	Yash Raj Films
+Director: Siddharth Anand
+Review:	What a comeback by King Khan!
+
+
+
+What action would you like to perform?
+Please enter the Movie name to search:
+Please enter the movies's director':
+Movie found. Here's the review:
+What a comeback by King Khan!
+
+What action would you like to perform?
+Please enter the Movie name to search:
+Please enter the movies's director':
+Movie not found. Please try again
+
+What action would you like to perform?
+Please enter the movie genre to search:
+1 Movies matching Action type were found:
+Avatar: The Way of Water Movie
+***
+Total Collection earned: $$$$
+Action Movie
+Production Company:	Lightstorm Entertainment
+Director: James Cameron
+Review:	Visually stunning and action-packed but the story is light!
+
+
+What action would you like to perform?

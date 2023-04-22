@@ -1,0 +1,229 @@
+Welcome to YoMovies! 
+Find or post reviews for your favorite (and not so favorite) movies.
+Choice		Action
+------		------
+A		Add a review
+D		Search for a movie
+E		Search for a genre
+L		List all reviews
+N		Sort by stars
+P		Sort by genre
+Q		Quit
+R		Remove a review
+U		Add personal review to a local file
+V		Retrieve personal review from a local file
+W		Save reviews to a file
+X		Upload reviews from a file
+T		(admin) reset database
+?		Display Help
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+Please enter a file name to write:
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+ReviewManagerFile.dat was read
+
+What action would you like to perform?
+sorted by rating
+
+What action would you like to perform?
+
+Holidate Movie
+**
+Total Collection earned: $$
+Romantic Comedy Movie
+Production Company:	Wonderland Sound and Vision
+Director: John Whitesell
+Review:	Good! A one-time watch movie.
+
+Avengers: Endgame Movie
+****
+Total Collection earned: $$
+Science fiction Movie
+Production Company:	Marvel Studios
+Director: Anthony Russo
+Review:	A must see for any marvel or superhero fan.
+
+Avatar: The Way of Water Movie
+*****
+Total Collection earned: $$$$
+Action Movie
+Production Company:	Lightstorm Entertainment
+Director: James Cameron
+Review:	Visually stunning and action-packed but the story is light!
+
+Pathaan Movie
+*****
+Total Collection earned: $$$
+Thriller Movie
+Production Company:	Yash Raj Films
+Director: Siddharth Anand
+Review:	What a comeback by King Khan!
+
+
+
+What action would you like to perform?
+Please enter the name of the movie for which you want the review removed:
+Please enter the name of the movie's director:
+Pathaan, Siddharth Anand was removed
+
+What action would you like to perform?
+Please enter the movie information:
+Enter the movie name:
+Enter the review:
+Enter the total collection:
+Enter the rating:
+Enter the movie genre:
+Enter the movie's Director:
+Enter the movie's production company
+Movie added to the database!
+
+What action would you like to perform?
+Please enter the name of the movie for which you want the review removed:
+Please enter the name of the movie's director:
+Pathaan, John R. Leonetti was NOT removed
+
+What action would you like to perform?
+sorted by genre
+
+What action would you like to perform?
+
+Avatar: The Way of Water Movie
+*****
+Total Collection earned: $$$$
+Action Movie
+Production Company:	Lightstorm Entertainment
+Director: James Cameron
+Review:	Visually stunning and action-packed but the story is light!
+
+Annabelle Movie
+*
+Total Collection earned: $
+Horror Movie
+Production Company:	New Line Cinema
+Director: John R. Leonetti
+Review:	It's a nice movie.
+
+Holidate Movie
+**
+Total Collection earned: $$
+Romantic Comedy Movie
+Production Company:	Wonderland Sound and Vision
+Director: John Whitesell
+Review:	Good! A one-time watch movie.
+
+Avengers: Endgame Movie
+****
+Total Collection earned: $$
+Science fiction Movie
+Production Company:	Marvel Studios
+Director: Anthony Russo
+Review:	A must see for any marvel or superhero fan.
+
+
+
+What action would you like to perform?
+Please enter the movie genre to search:
+1 Movies matching Romantic Comedy type were found:
+Holidate Movie
+**
+Total Collection earned: $$
+Romantic Comedy Movie
+Production Company:	Wonderland Sound and Vision
+Director: John Whitesell
+Review:	Good! A one-time watch movie.
+
+
+What action would you like to perform?
+The movie management system was reset!
+
+What action would you like to perform?
+
+No Reviews available
+
+What action would you like to perform?
+Please enter a file name which we will read from:
+ReviewManagerFile.dat was read
+
+What action would you like to perform?
+
+Holidate Movie
+**
+Total Collection earned: $$
+Romantic Comedy Movie
+Production Company:	Wonderland Sound and Vision
+Director: John Whitesell
+Review:	Good! A one-time watch movie.
+
+Avatar: The Way of Water Movie
+*****
+Total Collection earned: $$$$
+Action Movie
+Production Company:	Lightstorm Entertainment
+Director: James Cameron
+Review:	Visually stunning and action-packed but the story is light!
+
+Avengers: Endgame Movie
+****
+Total Collection earned: $$
+Science fiction Movie
+Production Company:	Marvel Studios
+Director: Anthony Russo
+Review:	A must see for any marvel or superhero fan.
+
+Pathaan Movie
+*****
+Total Collection earned: $$$
+Thriller Movie
+Production Company:	Yash Raj Films
+Director: Siddharth Anand
+Review:	What a comeback by King Khan!
+
+
+
+What action would you like to perform?

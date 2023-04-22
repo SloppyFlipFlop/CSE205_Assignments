@@ -1,0 +1,35 @@
+Welcome to AStUnes!
+===================
+Choice		Action
+------		------
+add		Adds a song to the current playlist
+count		Counts the number of songs in a playlist
+position	Gets the position of a song in a playlist
+remove		Remove a song from the playlist
+new			Create a new playlist
+switch		Switch to another playlist
+pop			Finish and remove the first song from the playlist
+songs		List the songs in the current playlist
+playlists	List the playlists
+stack		Stack a playlist onto another
+interleave	Interleave two playlists
+quit		Quit the program
+help		Display Help
+
+Successfully added Title: Remix 1	Artist: Person1
+Successfully added Title: Remix 2	Artist: Person2
+Creating playlist mood
+Switched to mood
+Successfully added Title: Remix 1	Artist: Person1
+Successfully added Title: Remix 2	Artist: Person2
+Finished: Title: Remix 1	Artist: Person1.
+Now playing: Title: Remix 2	Artist: Person2
+
+Title: Remix 2	Artist: Person2
+
+Total songs: 1.
+Switched from playist mood to playlist library
+Title: Remix 1	Artist: Person1
+Title: Remix 2	Artist: Person2
+
+Total songs: 2.

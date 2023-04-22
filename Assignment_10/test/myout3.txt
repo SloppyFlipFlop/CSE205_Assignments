@@ -1,0 +1,363 @@
+Choice		Action
+------		------
+A		Add Customer
+C		Check Out Customer
+L		List Customer Queues
+Q		Quit
+R		Release Customer From Loan Officer
+S		Assign Customer To Loan Officer
+?		Display Help
+
+Please specify how many loan officer will be available: 
+What action would you like to perform:
+Please enter the cusomter ID to add: 
+Please specify the category of the customer: 
+The customer with id: 4 and category: LE is added
+
+What action would you like to perform:
+Please enter the cusomter ID to add: 
+Please specify the category of the customer: 
+The customer with id: 5 and category: WE is NOT added
+
+What action would you like to perform:
+Large Enterprise Queue:
+[Cust.ID: 4(LE)]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[]
+
+
+Officer ID: 0 does not have any cutomers
+
+Officer ID: 1 does not have any cutomers
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+Please enter the cusomter ID to add: 
+Please specify the category of the customer: 
+The customer with id: 52 and category: ME is added
+
+What action would you like to perform:
+Please enter the cusomter ID to add: 
+Please specify the category of the customer: 
+The customer with id: 7 and category: SE is added
+
+What action would you like to perform:
+Please enter the cusomter ID to add: 
+Please specify the category of the customer: 
+The customer with id: 8 and category: ME is added
+
+What action would you like to perform:
+Large Enterprise Queue:
+[Cust.ID: 4(LE)]
+
+Medium Enterprise Queue:
+[Cust.ID: 52(ME), Cust.ID: 8(ME)]
+
+Small Enterprise Queue:
+[Cust.ID: 7(SE)]
+
+
+Officer ID: 0 does not have any cutomers
+
+Officer ID: 1 does not have any cutomers
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+Customer Cust.ID: 4(LE) was assigned to a loan officer
+
+What action would you like to perform:
+Customer Cust.ID: 52(ME) was assigned to a loan officer
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[Cust.ID: 8(ME)]
+
+Small Enterprise Queue:
+[Cust.ID: 7(SE)]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 52
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+Which loan officer is releasing a customer? Enter officer ID: 
+No customer was released
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[Cust.ID: 8(ME)]
+
+Small Enterprise Queue:
+[Cust.ID: 7(SE)]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 52
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+Which loan officer is releasing a customer? Enter officer ID: 
+Customer Cust.ID: 52(ME) was serviced and checked out
+
+What action would you like to perform:
+Customer Cust.ID: 8(ME) was assigned to a loan officer
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[Cust.ID: 7(SE)]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 8
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[Cust.ID: 52(ME)]
+
+
+What action would you like to perform:
+Customer Cust.ID: 52(ME) was checked out
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[Cust.ID: 7(SE)]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 8
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+Customer Cust.ID: 7(SE) was assigned to a loan officer
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 8
+
+Officer ID: 2 is serving customer with id 7
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+No customer was assigned to the loan officer
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 8
+
+Officer ID: 2 is serving customer with id 7
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:
+Which loan officer is releasing a customer? Enter officer ID: 
+Customer Cust.ID: 7(SE) was serviced and checked out
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 8
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[Cust.ID: 7(SE)]
+
+
+What action would you like to perform:
+Customer Cust.ID: 7(SE) was checked out
+
+What action would you like to perform:
+No customer was checked out
+
+What action would you like to perform:
+Large Enterprise Queue:
+[]
+
+Medium Enterprise Queue:
+[]
+
+Small Enterprise Queue:
+[]
+
+
+Officer ID: 0 is serving customer with id 4
+
+Officer ID: 1 is serving customer with id 8
+
+Officer ID: 2 does not have any cutomers
+
+Officer ID: 3 does not have any cutomers
+
+Officer ID: 4 does not have any cutomers
+
+Officer ID: 5 does not have any cutomers
+
+Officer ID: 6 does not have any cutomers
+
+Checkout Customer Queue:
+[]
+
+
+What action would you like to perform:

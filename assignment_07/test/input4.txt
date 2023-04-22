@@ -1,0 +1,62 @@
+A
+Holidate
+Good! A one-time watch movie.
+$$
+2
+Romantic Comedy
+John Whitesell
+Wonderland Sound and Vision
+A
+Avatar: The Way of Water
+Visually stunning and action-packed but the story is light!
+$$$$
+5
+Action
+James Cameron
+Lightstorm Entertainment
+A
+Avengers: Endgame
+A must see for any marvel or superhero fan.
+$$
+4
+Science fiction
+Anthony Russo
+Marvel Studios
+A
+Pathaan
+What a comeback by King Khan!
+$$$
+5
+Thriller
+Siddharth Anand
+Yash Raj Films
+W
+ReviewManagerFile.dat
+X
+ReviewManagerFile.dat
+N
+L
+R
+Pathaan
+Siddharth Anand
+A
+Annabelle
+It's a nice movie.
+$
+1
+Horror
+John R. Leonetti
+New Line Cinema
+R
+Pathaan
+John R. Leonetti
+P
+L
+e
+Romantic Comedy
+T
+L
+X
+ReviewManagerFile.dat
+L
+Q

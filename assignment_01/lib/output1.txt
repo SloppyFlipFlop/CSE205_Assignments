@@ -1,0 +1,6 @@
+Enter your name:
+Enter last four digits of your ASU ID:
+Enter your CGPA:
+Name: Alipta Panda
+Last four digits of ASU ID: 8766
+CGPA: 3.87

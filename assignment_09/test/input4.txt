@@ -1,0 +1,16 @@
+add Hi by Beetles
+add Lightningstriken by Alternating Current
+add Eye of the Housecat by Remainder
+add Dreemland Remix by Korby
+position Dreemland Remix by Korby
+position Eye of the Housecat by Remainder
+count
+songs
+remove Eye of the Housecat by Remainder
+count
+remove Lightningstriken by Alternating Current
+count
+songs
+position Lightningstriken by Alternating Current
+position Dreemland Remix by Korby
+quit

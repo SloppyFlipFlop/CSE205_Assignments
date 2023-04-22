@@ -1,0 +1,30 @@
+Choice		Action
+------		------
+A		Add Student
+D		Display Student info
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	11146
+Major:		Computer Science
+
+Course information:
+Course ID:	205
+Instructor:	Faye Navabi
+Subject:	Programming in Java
+
+What action would you like to perform?

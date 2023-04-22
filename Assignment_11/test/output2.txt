@@ -1,0 +1,378 @@
+Welcome to CS ZyBox Live, your #1 online store for video games!
+With its vast selection of titles, lightning-fast download speeds, and prices so low they'll make your head spin,
+ZyBox Live is the ultimate destination for gamers everywhere.
+And the best part? You don't even have to leave your house to get there!
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+The store offers 0 game(s).
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Diablo II Resurrected is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Farmer's Dynasty is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Among Us is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+SpongeBob SquarePants: The Cosmic Shake is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Stardew Valley is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Minecraft Legends is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Grand Theft Auto V is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Invalid choice, please try again.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Among Us
+A party game of teamwork and betrayal. Crew mates work together to complete tasks before one or more Impostors can kill everyone aboard.
+ZyBox Price: $3.49
+6666666 downloads
+
+Farmer's Dynasty
+More than just an agricultural simulation! You have to rebuild your farm and develop your heritage. Start a family handle your relationships and manage your crops.
+ZyBox Price: $5.99
+1337 downloads
+
+Stardew Valley
+Turn your overgrown field into a lively farm!
+ZyBox Price: $14.99
+6666665 downloads
+
+Grand Theft Auto V
+Explore the stunning world of Los Santos and Blaine County featuring a range of technical upgrades and enhancements for new and returning players.
+ZyBox Price: $20.09
+167345 downloads
+
+Diablo II Resurrected
+Grab some friends and enjoy up to 8-player online multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.
+ZyBox Price: $39.98
+2000001 downloads
+
+SpongeBob SquarePants: The Cosmic Shake
+Wish-granting Mermaid's Tears in the hands of SpongeBob and Patrick... What could possibly go wrong?
+ZyBox Price: $49.96
+1999999 downloads
+
+Minecraft Legends
+Experience an epic legend from the Minecraft universe and the Overworld as you've never seen it before. Pre-order today!
+ZyBox Price: $59.99
+0 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+The store offers 7 game(s).
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the name of the game to be removed:
+Game Amongus not found.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the name of the game to be removed:
+Game Diablo II Resurrected was removed successfully.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+The store offers 6 game(s).
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Among Us
+A party game of teamwork and betrayal. Crew mates work together to complete tasks before one or more Impostors can kill everyone aboard.
+ZyBox Price: $3.49
+6666666 downloads
+
+Farmer's Dynasty
+More than just an agricultural simulation! You have to rebuild your farm and develop your heritage. Start a family handle your relationships and manage your crops.
+ZyBox Price: $5.99
+1337 downloads
+
+Stardew Valley
+Turn your overgrown field into a lively farm!
+ZyBox Price: $14.99
+6666665 downloads
+
+Grand Theft Auto V
+Explore the stunning world of Los Santos and Blaine County featuring a range of technical upgrades and enhancements for new and returning players.
+ZyBox Price: $20.09
+167345 downloads
+
+SpongeBob SquarePants: The Cosmic Shake
+Wish-granting Mermaid's Tears in the hands of SpongeBob and Patrick... What could possibly go wrong?
+ZyBox Price: $49.96
+1999999 downloads
+
+Minecraft Legends
+Experience an epic legend from the Minecraft universe and the Overworld as you've never seen it before. Pre-order today!
+ZyBox Price: $59.99
+0 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the name of the game to be removed:
+Game Farmer's Dynasty was removed successfully.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the name of the game to be removed:
+Game SpongeBob SquarePants: The Cosmic Shake was removed successfully.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the name of the game to be removed:
+Game Stardew Valley was removed successfully.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the name of the game to be removed:
+Game Minecraft Legends was removed successfully.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+The store offers 2 game(s).
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Among Us
+A party game of teamwork and betrayal. Crew mates work together to complete tasks before one or more Impostors can kill everyone aboard.
+ZyBox Price: $3.49
+6666666 downloads
+
+Grand Theft Auto V
+Explore the stunning world of Los Santos and Blaine County featuring a range of technical upgrades and enhancements for new and returning players.
+ZyBox Price: $20.09
+167345 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Monkey Island is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+The store offers 3 game(s).
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Thank you for making MS ZyBox Live the #1 online store!

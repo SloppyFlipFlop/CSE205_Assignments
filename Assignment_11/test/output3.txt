@@ -1,0 +1,332 @@
+Welcome to CS ZyBox Live, your #1 online store for video games!
+With its vast selection of titles, lightning-fast download speeds, and prices so low they'll make your head spin,
+ZyBox Live is the ultimate destination for gamers everywhere.
+And the best part? You don't even have to leave your house to get there!
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Tetris Effect is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Grand Theft Auto V is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+FIFA 23 Standard Edition is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Resident Evil 4 Deluxe Edition is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Among Us is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Diablo II Resurrected is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Monkey Island is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Worms Battlegrounds is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Minecraft Legends is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Cyberpunk 2077 is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+SpongeBob SquarePants: The Cosmic Shake is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Enter game details: name, description, price, downloads (separated by commas)
+Stardew Valley is available for purchase.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Among Us
+An online and local party game of teamwork and betrayal for 4-15 players...in space!
+ZyBox Price: $3.49
+6666666 downloads
+
+Worms Battlegrounds
+Form clans and take on the world. Enter your clan into the league and fight together to make your mark on the leaderboards. Nobody wants an empty trophy cabinet!
+ZyBox Price: $6.24
+4059670 downloads
+
+Monkey Island
+Pirates! Adventure! Monkeys! Relive the hilarious swashbuckling misadventures of the wannabe pirate Guybrush Threepwood as he attempts to become the most infamous pirate in the Caribbean
+ZyBox Price: $9.99
+3678459 downloads
+
+Stardew Valley
+Turn your overgrown field into a lively farm!
+ZyBox Price: $14.99
+6666665 downloads
+
+Grand Theft Auto V
+Explore the stunning world of Los Santos and Blaine County featuring a range of technical upgrades and enhancements for new and returning players.
+ZyBox Price: $20.09
+167345 downloads
+
+FIFA 23 Standard Edition
+Play as Ted Lasso and AFC Richmond at Nelson Road.
+ZyBox Price: $27.99
+398457 downloads
+
+Cyberpunk 2077
+Become an urban outlaw equipped with cybernetic enhancements and build your legend on the streets of Night City.
+ZyBox Price: $29.98
+2379340 downloads
+
+Minecraft Legends
+Experience an epic legend from the Minecraft universe and the Overworld as you've never seen it before. Pre-order today!
+ZyBox Price: $39.97
+0 downloads
+
+Diablo II Resurrected
+Grab some friends and enjoy up to 8-player online multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.
+ZyBox Price: $39.98
+2000001 downloads
+
+Tetris Effect
+An incredibly addictive unique and breathtakingly gorgeous reinvention of one of the most popular puzzle.
+ZyBox Price: $39.99
+1836530 downloads
+
+SpongeBob SquarePants: The Cosmic Shake
+Wish-granting Mermaid's Tears in the hands of SpongeBob and Patrick... What could possibly go wrong?
+ZyBox Price: $49.96
+1999999 downloads
+
+Resident Evil 4 Deluxe Edition
+Survival is just the beginning.Resident Evil 4 marks the rebirth of an industry juggernaut.Relive the nightmare that revolutionized survival horror.
+ZyBox Price: $69.98
+124830 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the price:
+Invalid input. Please try again.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the price:
+No price match found.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the price:
+Game found: Tetris Effect
+An incredibly addictive unique and breathtakingly gorgeous reinvention of one of the most popular puzzle.
+ZyBox Price: $39.99
+1836530 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the price:
+Game found: Among Us
+An online and local party game of teamwork and betrayal for 4-15 players...in space!
+ZyBox Price: $3.49
+6666666 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Please enter the price:
+Game found: Stardew Valley
+Turn your overgrown field into a lively farm!
+ZyBox Price: $14.99
+6666665 downloads
+
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+The store has $352.65 worth of games.
+
+Please choose from the following options:
+A - Add a game to the store
+R - Remove a game from the store
+C - Count games in the store
+L - List all games in the store (sorted by price from low to high)
+F - Find a game in the store (by price)
+P - Find the most popular game
+V - Calculate total store value
+Q - Quit
+
+Thank you for making MS ZyBox Live the #1 online store!

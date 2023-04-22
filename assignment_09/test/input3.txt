@@ -1,0 +1,10 @@
+add Remix 1 by Person1
+add Remix 2 by Person2
+new mood
+add Remix 1 by Person1
+add Remix 2 by Person2
+pop
+songs
+switch library
+songs
+quit

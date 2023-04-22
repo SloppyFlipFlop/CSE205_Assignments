@@ -1,0 +1,28 @@
+Welcome to AStUnes!
+===================
+Choice		Action
+------		------
+add		Adds a song to the current playlist
+count		Counts the number of songs in a playlist
+position	Gets the position of a song in a playlist
+remove		Remove a song from the playlist
+new			Create a new playlist
+switch		Switch to another playlist
+pop			Finish and remove the first song from the playlist
+songs		List the songs in the current playlist
+playlists	List the playlists
+stack		Stack a playlist onto another
+interleave	Interleave two playlists
+quit		Quit the program
+help		Display Help
+
+Successfully added Title: Hi	Artist: Beetles
+Successfully added Title: Lightningstriken	Artist: Alternating Current
+Successfully added Title: Eye of the Housecat	Artist: Remainder
+Finished: Title: Hi	Artist: Beetles.
+Now playing: Title: Lightningstriken	Artist: Alternating Current
+Finished: Title: Lightningstriken	Artist: Alternating Current.
+Now playing: Title: Eye of the Housecat	Artist: Remainder
+Finished Title: Eye of the Housecat	Artist: Remainder.
+No songs currently in playlist library.
+No songs currently in playlist library.

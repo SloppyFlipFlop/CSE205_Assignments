@@ -1,0 +1,6 @@
+Enter your name:
+Enter last four digits of your ASU ID:
+Enter your CGPA:
+Name: Daniel C. 
+Last four digits of ASU ID: 7420
+CGPA: 2.84

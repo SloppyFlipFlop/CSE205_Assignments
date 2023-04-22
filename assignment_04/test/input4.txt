@@ -1,0 +1,22 @@
+a
+14949
+Aerospace Engineering
+325
+John Smith
+Aerospace Structures and Materials
+d
+A
+13052
+Computer Science
+100
+Faye Navabi
+Programming with C++
+D
+A
+16153
+Chemical Engineering
+211
+David Taylor
+Introduction to Chemical Processing
+d
+q

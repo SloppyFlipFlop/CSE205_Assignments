@@ -1,0 +1,44 @@
+A
+Holidate
+Good! A one-time watch movie.
+$$
+2
+Romantic Comedy
+John Whitesell
+Wonderland Sound and Vision
+A
+Avatar: The Way of Water
+Visually stunning and action-packed but the story is light!
+$$$$
+5
+Action
+James Cameron
+Lightstorm Entertainment
+A
+Avengers: Endgame
+A must see for any marvel or superhero fan.
+$$
+4
+Science fiction
+Anthony Russo
+Marvel Studios
+L
+D
+Avatar: The Way of Water
+James Cameron
+D
+Avengers: Endgame
+John Whitesell
+N
+L
+P
+L
+U
+newReview.txt
+Holidate
+Good! A one-time watch movie.
+V
+newReview.txt
+V
+noReview.txt
+Q

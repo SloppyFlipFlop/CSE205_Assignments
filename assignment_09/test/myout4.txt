@@ -1,0 +1,43 @@
+Welcome to AStUnes!
+===================
+Choice		Action
+------		------
+add		Adds a song to the current playlist
+count		Counts the number of songs in a playlist
+position	Gets the position of a song in a playlist
+remove		Remove a song from the playlist
+new			Create a new playlist
+switch		Switch to another playlist
+pop			Finish and remove the first song from the playlist
+songs		List the songs in the current playlist
+playlists	List the playlists
+stack		Stack a playlist onto another
+interleave	Interleave two playlists
+quit		Quit the program
+help		Display Help
+
+Successfully added Title: Hi	Artist: Beetles
+Successfully added Title: Lightningstriken	Artist: Alternating Current
+Successfully added Title: Eye of the Housecat	Artist: Remainder
+Successfully added Title: Dreemland Remix	Artist: Korby
+Title: Dreemland Remix	Artist: Korby song is located at position 4 in library
+Title: Eye of the Housecat	Artist: Remainder song is located at position 3 in library
+The current playlist library has 4 songs.
+
+Title: Hi	Artist: Beetles
+Title: Lightningstriken	Artist: Alternating Current
+Title: Eye of the Housecat	Artist: Remainder
+Title: Dreemland Remix	Artist: Korby
+
+Total songs: 4.
+Removed Title: Eye of the Housecat	Artist: Remainder (at position 3) from library.
+The current playlist library has 3 songs.
+Removed Title: Lightningstriken	Artist: Alternating Current (at position 2) from library.
+The current playlist library has 2 songs.
+
+Title: Hi	Artist: Beetles
+Title: Dreemland Remix	Artist: Korby
+
+Total songs: 2.
+Title: Lightningstriken	Artist: Alternating Current is not in the playlist.
+Title: Dreemland Remix	Artist: Korby song is located at position 2 in library

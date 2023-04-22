@@ -1,0 +1,50 @@
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter an integer to factorize: Invalid input. Only positive integers allowed. Please try again.
+The prime factorization of 404 is: 2x2x101
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter an integer to factorize: The prime factorization of 1337 is: 7x191
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter an integer to factorize: The prime factorization of 69 is: 3x23
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter an integer to factorize: The prime factorization of 256 is: 2x2x2x2x2x2x2x2
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+

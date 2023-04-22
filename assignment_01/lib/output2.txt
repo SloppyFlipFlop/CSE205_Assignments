@@ -1,0 +1,6 @@
+Enter your name:
+Enter last four digits of your ASU ID:
+Enter your CGPA:
+Name: Nick Dakins
+Last four digits of ASU ID: 7832
+CGPA: 3.62

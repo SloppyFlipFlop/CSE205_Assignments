@@ -1,0 +1,7 @@
+add Hi by Beetles
+add Lightningstriken by Alternating Current
+add Eye of the Housecat by Remainder
+add Dreemland Remix by Korby
+count
+songs
+quit

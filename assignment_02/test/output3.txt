@@ -1,0 +1,29 @@
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Enter the length of sequence
+Enter the sequence
+The count of odd integers in the sequence is 8
+
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Enter a number:
+The factorial of 6 is 720
+
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Bye

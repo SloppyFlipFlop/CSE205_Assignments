@@ -1,0 +1,41 @@
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter the first number: Enter the second number: The sum of all integers between 3 and 5 is: 12
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter the first number: Enter the second number: The sum of all integers between 12 and 9 is: 42
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter the first number: Invalid input. Only positive integers allowed. Please try again.
+Enter the second number: Invalid input. Please try again.
+The sum of all integers between 5 and 13 is: 81
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+

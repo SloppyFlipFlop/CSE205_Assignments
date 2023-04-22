@@ -1,0 +1,38 @@
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Enter a number:
+The factorial of 13 is 1932053504
+
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Enter a number:
+The sum of 1 to 6 is 21
+
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Enter a number:
+The leftmost digit of 678912 is 6
+
+Please choose one option from the following menu:
+1. Calculate the sum of integers from 1 to m
+2. Calculate the factorial of a given number
+3. Calculate the count of odd integers in a given sequence
+4. Display the leftmost digit of a given number
+5. Calculate the greatest common divisor of two given integers
+6. Quit
+Bye

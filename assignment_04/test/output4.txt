@@ -1,0 +1,72 @@
+Choice		Action
+------		------
+A		Add Student
+D		Display Student info
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	14949
+Major:		Aerospace Engineering
+
+Course information:
+Course ID:	325
+Instructor:	John Smith
+Subject:	Aerospace Structures and Materials
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	13052
+Major:		Computer Science
+
+Course information:
+Course ID:	100
+Instructor:	Faye Navabi
+Subject:	Programming with C++
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	16153
+Major:		Chemical Engineering
+
+Course information:
+Course ID:	211
+Instructor:	David Taylor
+Subject:	Introduction to Chemical Processing
+
+What action would you like to perform?

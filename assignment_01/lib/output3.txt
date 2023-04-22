@@ -1,0 +1,6 @@
+Enter your name:
+Enter last four digits of your ASU ID:
+Enter your CGPA:
+Name: Swastika Reddy
+Last four digits of ASU ID: 2245
+CGPA: 4.0

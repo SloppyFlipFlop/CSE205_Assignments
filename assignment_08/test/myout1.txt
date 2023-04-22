@@ -1,0 +1,49 @@
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Invalid choice. Please choose a char between A and E.
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter numbers (0 to finish): Sum of elements in array: 66.6
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Invalid choice. Please choose a char between A and E.
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+
+Enter numbers (0 to finish): Sum of elements in array: 3.1415926
+
+What would you like to do?
+
+A: Calculate the sum of all elements in an array of doubles
+B: Calculate the sum of all integers between two numbers (including the two numbers)
+C: Calculate the prime factorization of an integer
+D: Remove all occurrences of a specified substring in a string
+E: Quit
+

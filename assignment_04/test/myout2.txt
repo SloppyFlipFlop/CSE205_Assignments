@@ -1,0 +1,51 @@
+Choice		Action
+------		------
+A		Add Student
+D		Display Student info
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	16964
+Major:		Electrical Engineering
+
+Course information:
+Course ID:	120
+Instructor:	Steven Millman
+Subject:	Digital Design Fundamentals
+
+What action would you like to perform?
+
+Please enter the student's information:
+
+Enter student's ID:	
+Enter student's major:	
+Please enter the course information:
+Enter course ID:	
+Enter instr. name:	
+Enter course subject:	
+What action would you like to perform?
+
+Student information:
+Student Id:	15089
+Major:		Mathematics
+
+Course information:
+Course ID:	117
+Instructor:	Eric Fishman
+Subject:	College Algebra
+
+What action would you like to perform?
