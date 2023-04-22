@@ -1,4 +1,0 @@
-{
-  "java.project.sourcePaths": ["src"], // Source folder
-  "java.project.outputPath": "bin" // Output folder
-}
