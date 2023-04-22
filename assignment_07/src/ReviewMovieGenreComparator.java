@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 7
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: The following class is used to compare two movies by their movie genre. But if their movie genres are the same, then it will compare the movies by their total movie collection(movie earnings). If their total collections are the same, then it will compare the movies by their names(in alphabetical order). If their names are the same, then it will compare the movies by their director's name(in alphabetical order). If their director's name are the same, then it will compare the movies by their review(in alphabetical order). If their reviews are the same, then it will return 0.
 */

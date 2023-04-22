@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 7
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: This class is used as the Movie's gerne object class. It is used to store the movie's genre and production company. Also allows for the genre to be converted to a string.
 */

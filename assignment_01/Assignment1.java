@@ -2,7 +2,7 @@
 /* 
     Assignment #: 1
     Name: David Nevarez
-    StudentID: 1225929460
+    StudentID: xxxxxxxxxx
     Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
     Description: This class reads a string, an integer and a floating point number from a keyboard and prints it out
                  along with other messages.

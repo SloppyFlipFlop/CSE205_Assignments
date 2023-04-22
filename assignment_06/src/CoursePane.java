@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 5
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: This class represents the GUI components for a course pane. It allows users to add and remove courses to a course list and display the list to see.
 */
@@ -27,8 +27,6 @@ import javafx.event.EventHandler;
 
 import java.util.ArrayList;
 
-import javax.swing.JList.DropLocation;
-
 public class CoursePane extends HBox {
     // GUI components
     private ArrayList<Course> courseList;
@@ -47,12 +45,11 @@ public class CoursePane extends HBox {
         // creates the drop course list
         dropCourseList = new ArrayList<Course>();
 
-
-        // makes the left pane that will contain all the course information input sections
+        // makes the left pane that will contain all the course information input
+        // sections
         BorderPane leftPane = new BorderPane();
         leftPane.setPadding(new Insets(10, 10, 10, 10));
         leftPane.setStyle("-fx-border-color: black");
-
 
         // creates the title for the left pane
         Label labelLeft = new Label("Add Course(s)");// leftPane title
@@ -65,8 +62,9 @@ public class CoursePane extends HBox {
         Label bottomLabel = new Label("No course entered");
         bottomLabel.setFont(Font.font(null, 14));
         leftPane.setBottom(bottomLabel);
-        
-        // creates the center content for the left pane, which will contain all the input sections
+
+        // creates the center content for the left pane, which will contain all the
+        // input sections
         VBox leftPaneContent = new VBox();
 
         leftPaneContent.setSpacing(30);
@@ -127,7 +125,7 @@ public class CoursePane extends HBox {
         // add button
         Button addButton = new Button("Add");
 
-        // when the add button is clicked, the course will be added  to the courselist
+        // when the add button is clicked, the course will be added to the courselist
         addButton.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
@@ -195,8 +193,6 @@ public class CoursePane extends HBox {
                 courseNumField.clear();
                 instructorField.clear();
 
-            
-
                 updateCourseListDisplay();
             }
         });
@@ -230,7 +226,6 @@ public class CoursePane extends HBox {
                     }
                 }
 
-
                 System.out.println("numCheckBoxSelected: " + numCheckBoxSelected);
 
             }
@@ -262,7 +257,7 @@ public class CoursePane extends HBox {
 
         checkboxContainer.setSpacing(10);
         rightPane.setCenter(checkboxContainer);
- 
+
         numCourses = new Label("Number of Courses Enrolled: " +
                 courseCount + "");
 
@@ -276,7 +271,8 @@ public class CoursePane extends HBox {
 
     public boolean doesCourseExistAlready(Course course) {
         for (int i = 0; i < courseList.size(); i++) {
-            if (courseList.get(i).getSubject().equals(course.getSubject()) && courseList.get(i).getCourseNum() == course.getCourseNum()) {
+            if (courseList.get(i).getSubject().equals(course.getSubject())
+                    && courseList.get(i).getCourseNum() == course.getCourseNum()) {
                 return true;
             }
         }

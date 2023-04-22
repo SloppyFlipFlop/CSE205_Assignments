@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 10
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: This class represents loan officers and data about them.
  */

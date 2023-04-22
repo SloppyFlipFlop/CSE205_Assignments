@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 7
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: This class is used to create a movie object that will be used to store the information of a movie
 */

@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 4
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: The Course class allows for the creation of courses within this program.
 */

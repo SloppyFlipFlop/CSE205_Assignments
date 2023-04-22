@@ -1,7 +1,7 @@
 /* 
  * Assignment #: 7
  * Name: David Nevarez
- * StudentID: 1225929460
+ * StudentID: xxxxxxxxxx
  * Lecture: Mondays, Wednesdays, and Fridays, 11:15 AM –12:05 PM
  * Description: This class will be used to compare two movies by initialy their difference in star ranking. Then follow the hierarchy of the folllowing attributes: Stars, Movie name, Movie director, then Review. At any point if the attributes are the same, then it will return 0. else it will return the difference of the two attributes.
 */
